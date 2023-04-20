@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id='header' align='center'>
+    <h1>Hi there! I'm Artem</h1>
+    <h3>Frontend developer from Poland</h3>
+</div>
 
 <!--
 **ak-hu/ak-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
