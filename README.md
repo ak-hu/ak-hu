@@ -5,8 +5,11 @@
 </h1>
 
 <h5 align='center'>
-    <a href="https://www.linkedin.com/in/artem-degtiarev/">
+    <a href="https://www.linkedin.com/in/artem-degtiarev/" title="LinkedIn">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://stackoverflow.com/users/13998683/ak-hu" title="Stack Overflow">
+        <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
     </a>
 </h5>
 
