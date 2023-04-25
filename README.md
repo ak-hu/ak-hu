@@ -17,11 +17,11 @@
 
 - 👾 frontend： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![React](https://img.shields.io/badge/-REACT-blue?style=flat-circle&logo=REACT)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![SASS](https://img.shields.io/badge/-SASS-yellow?style=flat-circle&logo=SASS)
 
-- 🚀 backend： ![Django](https://img.shields.io/badge/-Django-blue?style=flat-circle&logo=django)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=NodeJS)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+- 🚀 backend： ![Django](https://img.shields.io/badge/-Django-blue?style=flat-circle&logo=django)![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-circle&logo=Node.js)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
 
 - 🛠 use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![Bash](https://img.shields.io/badge/-Bash-gray?style=flat-circle&logo=Bash)![Mac](https://img.shields.io/badge/-Mac-white?style=flat-circle&logo=Mac)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![MacOS](https://img.shields.io/badge/MacOS?style=for-the-badge&logo=apple&logoColor=white)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
 - 🗄 database：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
