@@ -4,22 +4,14 @@
     </a>
 </h1>
 
-<p align="left">
-   <b>Frontend developer from Poland</b>
-  <br>
-  <br>
-  🧑🏼‍💻 I'm currently studying for an Engineer degree on Web development specialisation
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  🌱 I’m currently improving my skills in TypeScript
-  <br>
-  🗣 English, Polish, Russian
-  <br>
-  💬 Ask me any question <a href="https://github.com/ak-hu/ak-hu/issues" title="Issues">here</a>
-  <br>
-  📫 <a href="mailto: git.ak.hu@gmail.com">git.ak.hu@gmail.com</a>
-</p>
+# 🛠 About me
+- 🎨 Frontend developer from Poland
+- 🧑🏼‍💻 I'm currently studying for an Engineer degree on Web development specialisation
+- 💻 I love writing code and learn anythings about it
+- 🌱 I’m currently improving my skills in TypeScript
+- 🗣 English, Polish, Russian
+- 💬 Ask me any question [here](https://github.com/ak-hu/ak-hu/issues)
+-📫 git.ak.hu@gmail.com
 
 # 🛠 Tech Stack
 
@@ -29,7 +21,7 @@
 
 - 🛠 use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![MacOS](https://img.shields.io/badge/-MacOS-gray?style=flat-circle&logo=MacOS)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![bash](https://img.shields.io/badge/-Bash-red?style=flat-circle&logo=bash)![MacOs](https://img.shields.io/badge/-MacOs-gray?style=flat-circle&logo=MacOs)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
 - 🗄 database：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
