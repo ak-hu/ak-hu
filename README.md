@@ -1,7 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg" >
-        <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Artem+👋&center=true&size=30">
-    </a>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=092E20&width=435&lines=Hi+there!;I'm+Artem+👋&center=true&size=30)](https://git.io/typing-svg)
 </div>
 
 
