@@ -17,7 +17,7 @@
 
 - 👾 frontend： ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-circle&logo=javascript&logoColor=F7DF1E)![React](https://img.shields.io/badge/-REACT-blue?style=flat-circle&logo=REACT)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-circle&logo=SASS&logoColor=white)
 
-- 🚀 backend： ![Django](https://img.shields.io/badge/-Django-blue?style=flat-circle&logo=django)![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-circle&logo=Node.js)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+- 🚀 backend： ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-circle&logo=django&logoColor=white)![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-circle&logo=Node.js)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker&logoColor=white)
 
 - 🛠 use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
