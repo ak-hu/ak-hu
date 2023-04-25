@@ -1,8 +1,6 @@
-<h1 align='center'>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Artem+👋&center=true&size=30">
-    </a>
-</h1>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Artem+👋&center=true&size=30">
+</a>
 
 # 🛠 About me
 - 🎨 Frontend developer from Poland
