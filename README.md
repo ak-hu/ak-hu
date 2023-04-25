@@ -25,7 +25,7 @@
 
 - ⚙️ om：![Git](https://img.shields.io/badge/-Git-E44C30?style=flat-circle&logo=git&logoColor=white)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-circle&&logo=gnu-bash&logoColor=white)![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-circle&&logo=apple&logoColor=white)![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-circle&logo=GitLab&logoColor=white)![](https://img.shields.io/badge/GitHub-100000?style=flat-circle&&logo=github&logoColor=white)
 
-- 🌱 learning：![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- 🌱 learning：![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-circle&logo=angular&logoColor=white)
 
 
 # 📊  Actions 
