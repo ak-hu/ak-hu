@@ -21,11 +21,11 @@
 
 - 🛠 use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-circle&&logo=gnu-bash&logoColor=white)![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-circle&&logo=apple&logoColor=white)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/GitHub-100000?style=flat-circle&&logo=github&logoColor=white)
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-E44C30?style=flat-circle&logo=git&logoColor=white)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-circle&&logo=gnu-bash&logoColor=white)![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-circle&&logo=apple&logoColor=white)![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-circle&logo=GitLab&logoColor=white)![](https://img.shields.io/badge/GitHub-100000?style=flat-circle&&logo=github&logoColor=white)
 
 - 🗄 database：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
-- 🌱 learning：![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/-Angular-red?style=flat-circle&logo=Angular)
+- 🌱 learning：![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-circle&logo=Angulars&logoColor=white)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ak-hu&show_icons=true&count_private=true&theme=synthwave&hide_border=true&hide=issues,contribs&bg_color=00000000">
