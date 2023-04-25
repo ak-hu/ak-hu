@@ -5,7 +5,7 @@
 </h1>
 
 <p align="left">
-   <b>Frontend developer from Poland</b>
+   <b align="center">Frontend developer from Poland</b>
   <br>
   <br>
   🧑🏼‍💻 I'm currently studying for an Engineer degree on Web development specialisation
