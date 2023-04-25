@@ -18,7 +18,7 @@
   <br>
   💬 Ask me any question <a href="https://github.com/ak-hu/ak-hu/issues" title="Issues">here</a>
   <br>
-  📫 <a href="mailto: arty.lindemann@gmail.com">osmandurdag@hotmail.com</a>
+  📫 <a href="mailto: git.ak.hu@gmail.com">git.ak.hu@gmail.com</a>
 </p>
 
 <p align="center">
