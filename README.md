@@ -19,11 +19,11 @@
 
 - 🚀 backend： ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-circle&logo=django&logoColor=white)![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-circle&logo=Node.js)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker&logoColor=white)
 
+- 🗄 database：![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-circle&logo=MongoDB&logoColor=white)![MySQL](https://img.shields.io/badge/-Mysql-00000F?style=flat-circle&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-circle&logo=sqlite&logoColor=white)
+
 - 🛠 use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
 - ⚙️ om：![Git](https://img.shields.io/badge/-Git-E44C30?style=flat-circle&logo=git&logoColor=white)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-circle&&logo=gnu-bash&logoColor=white)![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-circle&&logo=apple&logoColor=white)![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-circle&logo=GitLab&logoColor=white)![](https://img.shields.io/badge/GitHub-100000?style=flat-circle&&logo=github&logoColor=white)
-
-- 🗄 database：![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-circle&logo=MongoDB&logoColor=white)![MySQL](https://img.shields.io/badge/-Mysql-00000F?style=flat-circle&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-circle&logo=sqlite&logoColor=white)
 
 - 🌱 learning：![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-circle&logo=Angulars&logoColor=white)
 
