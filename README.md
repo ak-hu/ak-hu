@@ -4,9 +4,9 @@
     </a>
 </h1>
 
-<h5 align='center'>
+<h2 align='center'>
     Frontend developer from Poland
-</h5>
+</h2>
 
 <!--
 **ak-hu/ak-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
