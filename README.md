@@ -32,7 +32,7 @@
 - 🛠 use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
 - ⚙️ om：![Git](https://img.shields.io/badge/-Git-E44C30?style=flat-circle&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-circle&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-circle&logo=gitlab)
 ![](https://img.shields.io/badge/GitHub-100000?style=flat-circle&&logo=github&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-circle&&logo=gnu-bash&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-circle&&logo=apple&logoColor=white)
