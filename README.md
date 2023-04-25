@@ -21,7 +21,7 @@
 
 - 🛠 use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![bash](https://img.shields.io/badge/-Bash-red?style=flat-circle&logo=bash)![MacOs](https://img.shields.io/badge/-MacOs-gray?style=flat-circle&logo=MacOs)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![Bash](https://img.shields.io/badge/-Bash-gray?style=flat-circle&logo=Bash)![Mac](https://img.shields.io/badge/-Mac-white?style=flat-circle&logo=Mac)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
 - 🗄 database：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
