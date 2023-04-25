@@ -9,7 +9,7 @@
 - 🌱 I’m currently improving my skills in TypeScript
 - 🗣 English, Polish, Russian
 - 💬 Ask me any question [here](https://github.com/ak-hu/ak-hu/issues)
--📫 git.ak.hu@gmail.com
+- 📫 git.ak.hu@gmail.com
 
 # 🛠 Tech Stack
 
