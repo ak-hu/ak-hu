@@ -15,7 +15,7 @@
 
 # 🛠 Tech Stack
 
-- 👾 frontend： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![React](https://img.shields.io/badge/-REACT-blue?style=flat-circle&logo=REACT)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![SASS](https://img.shields.io/badge/-SASS-yellow?style=flat-circle&logo=SASS)
+- 👾 frontend： ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-circle&logo=javascript&logoColor=F7DF1E)![React](https://img.shields.io/badge/-REACT-blue?style=flat-circle&logo=REACT)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-circle&logo=SASS&logoColor=white)
 
 - 🚀 backend： ![Django](https://img.shields.io/badge/-Django-blue?style=flat-circle&logo=django)![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-circle&logo=Node.js)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
 
@@ -25,7 +25,7 @@
 
 - 🗄 database：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
-- 🌱 learning：![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=TypeScript)![Angular](https://img.shields.io/badge/-Angular-red?style=flat-circle&logo=Angular)
+- 🌱 learning：![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/-Angular-red?style=flat-circle&logo=Angular)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ak-hu&show_icons=true&count_private=true&theme=synthwave&hide_border=true&hide=issues,contribs&bg_color=00000000">
