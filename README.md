@@ -4,24 +4,21 @@
     </a>
 </h1>
 
-<h2 align='center'>
-    Frontend developer from Poland
-</h2>
-
-<!--
-**ak-hu/ak-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p align="center">
+  Frontend developer from Poland
+  <br>
+  <br>
+  🧑🏼‍💻 I'm currently studying for an Engineer degree on Web development specialisation
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  🌱 I’m currently improving my skills in TypeScript
+  <br>
+  🗣 English, Polish, Russian
+  <br>
+  💬 Ask me any question <a href="https://github.com/ak-hu/ak-hu/issues" title="Issues">here</a>
+  <br>
+  📫 <a href="mailto: arty.lindemann@gmail.com">osmandurdag@hotmail.com</a>
+</p>
 
 <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/ak-hu/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/ak-hu/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/ak-hu/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
