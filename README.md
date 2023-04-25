@@ -21,7 +21,7 @@
 
 - 🛠 use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![MacOS](https://img.shields.io/badge/MacOS?style=for-the-badge&logo=apple&logoColor=white)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 - 🗄 database：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
