@@ -4,9 +4,7 @@
 # 👽 About me
 - 🎨 Frontend developer 
 - 📍 Living in Poland
-- 🧑🏼‍💻 I'm currently studying for an Engineer degree on Web development specialisation
-- 💻 I love writing code and learn anythings about it
-- 🌱 I’m currently improving my skills in TypeScript
+- 🧑🏼‍💻 Studying for an Engineer degree on Web development specialisation
 - 🗣 English, Polish, Russian
 - 💬 Ask me any question [here](https://github.com/ak-hu/ak-hu/issues)
 - 📫 git.ak.hu@gmail.com
