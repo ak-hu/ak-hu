@@ -1,10 +1,11 @@
-<div id='header' align='center'>
-    <h1>Hi there! I'm Artem</h1>
-    <h3>Frontend developer from Poland</h3>
-    <a href="https://www.linkedin.com/in/artem-degtiarev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<h1 align='center'>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Artem+👋&center=true&size=30">
     </a>
-</div>
+    <a href="https://www.linkedin.com/in/artem-degtiarev/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</h1>
 
 <!--
 **ak-hu/ak-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
