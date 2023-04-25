@@ -1,6 +1,9 @@
-<a href="https://git.io/typing-svg" align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Artem+👋&center=true&size=30">
-</a>
+<div align="center">
+    <a href="https://git.io/typing-svg" >
+        <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Artem+👋&center=true&size=30">
+    </a>
+</div>
+
 
 # 🛠 About me
 - 🎨 Frontend developer from Poland
