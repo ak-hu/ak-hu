@@ -4,8 +4,8 @@
     </a>
 </h1>
 
-<p align="center">
-  Frontend developer from Poland
+<p align="left">
+   <b>Frontend developer from Poland</b>
   <br>
   <br>
   🧑🏼‍💻 I'm currently studying for an Engineer degree on Web development specialisation
