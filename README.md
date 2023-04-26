@@ -18,6 +18,7 @@
 - 👾 frontend： ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-circle&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-circle&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-circle&logo=redux&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-circle&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-circle&logo=SASS&logoColor=white)
