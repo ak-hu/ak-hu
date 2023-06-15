@@ -6,11 +6,11 @@
 
 
 # 👽 About me
-- 🎨 Frontend developer 
-- 📍 Living in Poland
-- 🧑🏼‍💻 Studying for an Engineer degree on Web development specialisation
+- 🎨 frontend developer 
+- 📍 based in Poland
+- 🧑🏼‍💻 studying for an Engineer degree on Web development specialisation
 - 🗣 English, Polish, Russian
-- 💬 Ask me any question [here](https://github.com/ak-hu/ak-hu/issues)
+- 💬 ask me any question [here](https://github.com/ak-hu/ak-hu/issues)
 - 📫 git.ak.hu@gmail.com
 
 # 🛠 Tech Stack
