@@ -49,3 +49,6 @@
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ak-hu&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ak-hu&theme=merko&hide_border=true&background=FFFFFF00">
 </p>
+
+# 🏆  Trophies 
+![trophy](https://github-profile-trophy.vercel.app/?username=ak-hu&theme=onedark&column=4)
