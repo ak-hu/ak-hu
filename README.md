@@ -43,6 +43,7 @@
 - 🌱 learning：![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-circle&logo=angular&logoColor=white)
 
+
 # 📊  Actions 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=ak-hu&show_icons=true&count_private=true&theme=merko&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -50,10 +51,12 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ak-hu&theme=merko&hide_border=true&background=FFFFFF00">
 </p>
 
+
 # 🏆  Trophies 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=ak-hu&theme=onedark&column=4">
 </p>
 
+
 # 🐙  Octo Ring 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/ak-hu/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/ak-hu/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/ak-hu/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+<table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/ak-hu/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/ak-hu/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/ak-hu/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
