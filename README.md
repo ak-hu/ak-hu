@@ -43,6 +43,8 @@
 - 🌱 learning：![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-circle&logo=angular&logoColor=white)
 
+# 🏆  Trophies 
+![trophy](https://github-profile-trophy.vercel.app/?username=ak-hu&theme=merko)
 
 # 📊  Actions 
 <p align="center">
