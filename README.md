@@ -51,4 +51,8 @@
 </p>
 
 # 🏆  Trophies 
-![trophy](https://github-profile-trophy.vercel.app/?username=ak-hu&theme=onedark&column=4)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ak-hu&theme=onedark&column=2" />
+  </div>
+</div>
