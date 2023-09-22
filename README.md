@@ -8,7 +8,7 @@
 # 👽 About me
 - 🎨 frontend developer 
 - 📍 based in Poland
-- 🧑🏼‍💻 have an Engineer degree on Web development specialisation
+- 🎓 Engineer degree in Web development
 - 🗣 English, Polish, Russian
 - 💬 ask me any question [here](https://github.com/ak-hu/ak-hu/issues)
 - 📫 git.ak.hu@gmail.com
